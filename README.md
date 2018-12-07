@@ -1,9 +1,10 @@
 # C++ basic tutorials
 
 
-## Getting Started
+## 
 
-add git push commands for repository
+Code written based on the following tutorials:
+* [Tutorialspoint](https://www.tutorialspoint.com/cplusplus/)
 
 ### Prerequisites
 
