@@ -12,7 +12,7 @@ Installed Qt, GCC.
 
 ### Content
 
-	1 - Basics
+    1 - Basics
     2 - Classes
     3 - Constructor/Destructor
     4 - Copy Constructor
